@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm George 👋🏻
+I'm actively refining my coding skills and exploring the world of open-source software. My goal is to create impactful software and contribute to projects that benefit others.
 
-<!--
-**georgestafilidis/georgestafilidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰  My toolbox
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,cpp,git,vscode,vscodium,linux,php,ps,discord)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 A Few Things About Me:
+
+- 🌱 Continuously leveling up my coding knowledge
+- 🐧 Passionate about Linux and open-source software
+- 💻 Contributing to and learning from FOSS projects
+- 🎮 Inspired by video games and tech innovation
+- 🌍 Always looking for new ways to collaborate and grow
+
+*This "About Me" page is a work in progress, and I’ll be adding more as I grow and learn. Stay tuned!*
