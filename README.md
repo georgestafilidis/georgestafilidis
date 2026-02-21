@@ -21,13 +21,3 @@
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
-
-### A Bit About Me
-<p>
-I'm really into software development, design, and game dev.
-Right now it's mostly small experiments, quick prototypes, and stuff I'm figuring out.
-I switched to Linux not long ago — zero regrets. It's my daily driver now, no second thoughts.
-I keep starting new projects and picking up tools, but finishing… yeah, that's still tough for me.
-If you see any half-done repos here, seriously feel free to call me out. A little external pressure would help.
-As I get more confidence and actually finish a few things, I'll add more here so it doesn't just look like a graveyard of good intentions.
-</p>
